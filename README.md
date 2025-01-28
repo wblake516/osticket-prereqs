@@ -52,13 +52,13 @@ This guide outlines the steps required to set up the open-source help desk ticke
   - Size: Minimum 2 vCPUs and 8 GB memory
 
 <p>
-<img src="https://via.placeholder.com/800x400" alt="VM creation example"/>
+<img src="https://i.imgur.com/JQf623y.png"/>
 </p>
 
 - Check the licensing agreement, then proceed to review and create the VM. No changes are needed for the management, disks, or networking options.
 
 <p>
-<img src="https://via.placeholder.com/800x400" alt="VM creation review"/>
+<img src="https://i.imgur.com/Y1eCwM2.png/img/">
 </p>
 
 <h3><a id="connect_vm">2.) Connect to the Virtual Machine</a></h3>
@@ -67,7 +67,7 @@ This guide outlines the steps required to set up the open-source help desk ticke
 - Enter the VM's public IP address and the login credentials you created during setup.
 
 <p>
-<img src="https://via.placeholder.com/800x400" alt="Remote Desktop Connection"/>
+<img src="https://i.imgur.com/nzLIK8E.png/img"/>
 </p>
 
 <h3><a id="prepare_files">3.) Prepare Installation Files</a></h3>
@@ -76,7 +76,7 @@ This guide outlines the steps required to set up the open-source help desk ticke
 - Extract the files to your desktop into a folder named `osTicket-Installation-Files`.
 
 <p>
-<img src="https://via.placeholder.com/800x400" alt="Installation files preparation"/>
+<img src="https://i.imgur.com/z08O4Wn.png"/>
 </p>
 
 <h3><a id="enable_iis">4.) Enable Internet Information Services</a></h3>
@@ -86,17 +86,18 @@ This guide outlines the steps required to set up the open-source help desk ticke
   - **World Wide Web Services > Application Development Features > CGI**
 
 <p>
-<img src="https://via.placeholder.com/800x400" alt="IIS configuration"/>
+<img src="https://i.imgur.com/LZAnWrt.png/img"/>
 </p>
-
-<h3><a id="install_files">5.) Install Required Components</a></h3>
+<img src="https://i.imgur.com/softeNW.png"/><h3><a id="install_files">
+  
+  5.) Install Required Components</a></h3>
 
 - From the `osTicket-Installation-Files` folder:
   - Install **PHP Manager for IIS** using `PHPManagerForIIS_V1.5.0.msi`.
   - Install the **IIS Rewrite Module** using `rewrite_amd64_en-US.msi`.
 
 <p>
-<img src="https://via.placeholder.com/800x400" alt="Installing IIS components"/>
+<img src="https://i.imgur.com/softeNW.png/img"Installing IIS components"/>
 </p>
 
 <h3><a id="setup_php">6.) Set Up PHP</a></h3>
