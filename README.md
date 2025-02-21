@@ -107,8 +107,9 @@ This guide outlines the steps required to set up the open-source help desk ticke
 - Run `VC_redist.x86.exe` to install the necessary runtime.
 
 <p>
-<img src="https://via.placeholder.com/800x400" alt="PHP setup"/>
-</p>
+<img src="https://i.imgur.com/5zgJoW5.png"/>
+<img src="https://imgur.com/zMDTDVk.png"/>
+<img src="https://imgur.com/Nr55wrD.png"/>
 
 <h3><a id="setup_mysql">7.) Install and Configure MySQL</a></h3>
 
@@ -118,8 +119,9 @@ This guide outlines the steps required to set up the open-source help desk ticke
   - Set a username and password and save these credentials for later.
 
 <p>
-<img src="https://via.placeholder.com/800x400" alt="MySQL setup"/>
-</p>
+<img src="https://imgur.com/wa9O1Ub.png"/>
+<img src="https://imgur.com/7kgVJAd.png"/>
+<img src="https://imgur.com/481ulK8.png"/>
 
 <h3><a id="configure_iis">8.) Configure IIS</a></h3>
 
@@ -128,7 +130,10 @@ This guide outlines the steps required to set up the open-source help desk ticke
 - Restart IIS to apply the changes.
 
 <p>
-<img src="https://via.placeholder.com/800x400" alt="IIS configuration"/>
+<img src="https://imgur.com/prNbPqY.png" alt="IIS configuration"/>
+<img src="https://imgur.com/YbBolEh.png"/>
+<img src="https://imgur.com/D8orsiT.png"/>
+<img src="https://imgur.com/7VMnaxS.png"/>
 </p>
 
 <h3><a id="install_osticket">9.) Install osTicket</a></h3>
@@ -137,7 +142,10 @@ This guide outlines the steps required to set up the open-source help desk ticke
 - Rename the `upload` folder to `osTicket` and restart IIS.
 
 <p>
-<img src="https://via.placeholder.com/800x400" alt="osTicket installation"/>
+<img src="https://imgur.com/yy2u7aO.png"/> 
+<img src="https://imgur.com/GDmtGWR.png"/>
+<img src="https://imgur.com/G0yJbJP.png"/>
+<img src="https://imgur.com/7VMnaxS.png"/> 
 </p>
 
 <h3><a id="configure_osticket">10.) Configure osTicket</a></h3>
@@ -149,7 +157,9 @@ This guide outlines the steps required to set up the open-source help desk ticke
   - `php_opcache.dll`
 
 <p>
-<img src="https://via.placeholder.com/800x400" alt="PHP extensions"/>
+<img src="https://imgur.com/1jxepHr.png" alt="PHP extensions"/>
+<img src="https://imgur.com/USngp08.png"/>
+<img src="https://imgur.com/4q4mQRL.png"/> 
 </p>
 
 <h3><a id="set_permissions">11.) Set Permissions</a></h3>
