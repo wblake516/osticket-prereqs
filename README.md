@@ -168,7 +168,13 @@ This guide outlines the steps required to set up the open-source help desk ticke
 - Assign proper permissions by disabling inheritance, removing all permissions, and adding **Full Control** for **Everyone**.
 
 <p>
-<img src="https://via.placeholder.com/800x400" alt="Setting permissions"/>
+<img src="https://imgur.com/RDi8vvR.png"/>
+<img src="https://imgur.com/olfJtix.png"/>
+<img src="https://imgur.com/NvWcxUt.png"/>
+<img src="https://imgur.com/rgO3ZHr.png"/>
+<img src="https://imgur.com/2p8vIIn.png"/>
+<img src="https://imgur.com/fVLrmZF.png"/>
+<img src="https://imgur.com/69aPyIZ.png"/>
 </p>
 
 <h3><a id="complete_setup">12.) Finalize osTicket Setup</a></h3>
