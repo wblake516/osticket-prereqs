@@ -175,6 +175,11 @@ This guide outlines the steps required to set up the open-source help desk ticke
 <img src="https://imgur.com/2p8vIIn.png"/>
 <img src="https://imgur.com/fVLrmZF.png"/>
 <img src="https://imgur.com/69aPyIZ.png"/>
+<img src="https://imgur.com/zzxOkOI.png"/>
+<img src="https://imgur.com/wX85FSX.png"/>
+<img src="https://imgur.com/SsN9Jwn.png"/>
+<img src="https://imgur.com/XKycyH8.png"/>
+<img src="https://imgur.com/Qchtlgu.png"/>
 </p>
 
 <h3><a id="complete_setup">12.) Finalize osTicket Setup</a></h3>
@@ -184,7 +189,9 @@ This guide outlines the steps required to set up the open-source help desk ticke
   - Configure the default email address to receive support tickets.
 
 <p>
-<img src="https://via.placeholder.com/800x400" alt="osTicket setup"/>
+<img src="https://imgur.com/8hGe90U.png"/>
+<img src="https://imgur.com/oo1vWzC.png"/>
+<
 </p>
 
 <h3><a id="install_heidisql">13.) Install HeidiSQL</a></h3>
@@ -193,8 +200,12 @@ This guide outlines the steps required to set up the open-source help desk ticke
 - Create a new session using the MySQL credentials and create a database named `osTicket`.
 
 <p>
-<img src="https://via.placeholder.com/800x400" alt="HeidiSQL setup"/>
-</p>
+<img src="https://imgur.com/QXkWSx2.png"/>
+<img src="https://imgur.com/z1P3oFn.png"/>
+<img src="https://imgur.com/lVQtPm8.png"/>
+<img src="https://imgur.com/6KkIwNy.png"/>
+<img src="https://https://imgur.com/YKO13ej
+<img src=">
 
 <h3><a id="verify_installation">14.) Verify the Installation</a></h3>
 
