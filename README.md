@@ -97,7 +97,9 @@ This guide outlines the steps required to set up the open-source help desk ticke
   - Install the **IIS Rewrite Module** using `rewrite_amd64_en-US.msi`.
 
 <p>
-<img src="https://i.imgur.com/softeNW.png/img"Installing IIS components"/>
+<img src="https://imgur.com/yxerUZq.png"/>
+<img src="https://imgur.com/hdGZCM5.png"/> 
+<img src="https://imgur.com/3njXap8.png"/>
 </p>
 
 <h3><a id="setup_php">6.) Set Up PHP</a></h3>
@@ -205,7 +207,7 @@ This guide outlines the steps required to set up the open-source help desk ticke
 <img src="https://imgur.com/lVQtPm8.png"/>
 <img src="https://imgur.com/6KkIwNy.png"/>
 <img src="https://https://imgur.com/YKO13ej
-<img src=">
+<img src="
 
 <h3><a id="verify_installation">14.) Verify the Installation</a></h3>
 
@@ -215,7 +217,8 @@ This guide outlines the steps required to set up the open-source help desk ticke
   ```
 
 <p>
-<img src="https://via.placeholder.com/800x400" alt="osTicket login"/>
+<img src="https://imgur.com/npIevMG.png"/>
+<img src="https://imgur.com/VIethgE.png"/>
 </p>
 
 <h2>Conclusion</h2>
